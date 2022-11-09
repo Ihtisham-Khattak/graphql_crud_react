@@ -1,13 +1,13 @@
 # graphql_crud_react
 
-# Server Configration
+## Server Configration
 npm install 
 cd client -> npm install 
 
 npm start -> Client 
 npm run server -> Backend
 
-# Connection of frontend and backend
+## Connection of frontend and backend
 Client -> package.json -> "proxey": "http://your backend url/"
 
 Simple CRUD operation using GraphQL and React js.
